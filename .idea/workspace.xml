@@ -39,6 +39,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -54,6 +55,7 @@
       <updated>1647686488939</updated>
       <workItem from="1647686490199" duration="270000" />
       <workItem from="1647686770374" duration="8000" />
+      <workItem from="1647686800198" duration="524000" />
     </task>
     <servers />
   </component>
@@ -70,6 +72,12 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
     <option name="oldMeFiltersMigrated" value="true" />
+=======
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+>>>>>>> feature
   </component>
 </project>
